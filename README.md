@@ -1,5 +1,7 @@
-# MultiTool
-Batch process Media-Files with ffmpeg/mkvmerge/MediaInfo
+### MultiTool
+**Batch process Media-Files with ffmpeg/mkvmerge/MediaInfo.**
+
+
 ![Screenshot](https://user-images.githubusercontent.com/107532220/173764160-fa9403d7-292a-4117-bf1c-615aac9b5434.png)
 
 
