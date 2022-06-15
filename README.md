@@ -40,26 +40,32 @@ _________________________________________________________________
 
 ### Different Versions:
 **Setup** version can be extracted and used anywhere and is the same as the .rar version.
+
 The **Portable** Version deletes the Bin folder after use to keep the working folder clean (start is slow)
 _________________________________________________________________
 
 ### Currently these containers are supported:
- **-MediaInfo:**
+**MediaInfo:**
+ 
 (.3gp .avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)
 (.aac .ac3 .acm .flac .m4a .mka .mp2 .mp3 .oga .ogg .opus .vorbis .wav .wma)
 
- **-ffplay:**
+**ffplay:**
 (.3gp .avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)
 (.aac .ac3 .acm .flac .m4a .mka .mp2 .mp3 .oga .ogg .opus .vorbis .wav .wma)
 
- **-ffmpeg:**
+**ffmpeg:**
+ 
 (.avi .m2ts .mkv .mp4 .vob) 
 
- **-mkvextract:**
+**mkvextract:**
+ 
 (.m2ts .mkv .mp4  .vob)
 
- **-mkvpropedit:**
+**mkvpropedit:**
+ 
 (.avi .m2ts .mkv .mp4 .mpeg .ogv .vob) 
 
- **-mkvmerge:**
+**mkvmerge:**
+ 
 (.avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)  
