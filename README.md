@@ -4,6 +4,18 @@
 
 ![Screenshot](https://user-images.githubusercontent.com/107532220/173764160-fa9403d7-292a-4117-bf1c-615aac9b5434.png)
 
+_________________________________________________________________
+
+### Usage
+
+Put MultiTool in the same folder as your Media files
+
+Run .exe
+
+Choose Option
+
+Wait for it to finish
+_________________________________________________________________
 
 ### First Beta Release
 
@@ -45,7 +57,7 @@ The **Portable** Version deletes the Bin folder after use to keep the working fo
 (start is slow because of extraction)
 _________________________________________________________________
 
-### Currently these containers are supported:
+### Containers currently supported:
 **MediaInfo:**
  
 (.3gp .avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)
