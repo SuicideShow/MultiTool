@@ -28,9 +28,13 @@ O  Convert Videos to .mkv using ffmpeg
 - [ ]    Tune Option for Animation or Grain
 
 O  Play Media Files using ffplay
+
 O  Rename Track ID 0-2 to English or Japanese
-O  Change Default Track Flags for ID 0-2 to English or Japanese    
+
+O  Change Default Track Flags for ID 0-2 to English or Japanese   
+
 O  Change Aspect Ratio to 16:9 or 4:3
+
 O  Extract Chapter and Attachments
 _________________________________________________________________
 
@@ -43,14 +47,19 @@ _________________________________________________________________
  **-MediaInfo:**
 (.3gp .avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)
 (.aac .ac3 .acm .flac .m4a .mka .mp2 .mp3 .oga .ogg .opus .vorbis .wav .wma)
+
  **-ffplay:**
 (.3gp .avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)
 (.aac .ac3 .acm .flac .m4a .mka .mp2 .mp3 .oga .ogg .opus .vorbis .wav .wma)
+
  **-ffmpeg:**
 (.avi .m2ts .mkv .mp4 .vob) 
+
  **-mkvextract:**
 (.m2ts .mkv .mp4  .vob)
+
  **-mkvpropedit:**
 (.avi .m2ts .mkv .mp4 .mpeg .ogv .vob) 
+
  **-mkvmerge:**
 (.avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)  
