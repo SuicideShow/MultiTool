@@ -41,7 +41,8 @@ _________________________________________________________________
 ### Different Versions:
 **Setup** version can be extracted and used anywhere and is the same as the .rar version.
 
-The **Portable** Version deletes the Bin folder after use to keep the working folder clean (start is slow)
+The **Portable** Version deletes the Bin folder after use to keep the working folder clean.
+(start is slow because of extraction)
 _________________________________________________________________
 
 ### Currently these containers are supported:
