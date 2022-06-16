@@ -15,11 +15,15 @@ Run .exe
 Choose Option
 
 Wait for it to finish
+
+### Updating
+
+Just replace the old .exe with the new one
 _________________________________________________________________
 
-### First Beta Release
+### Beta Release
 
-MultiTool has the following features in v0.7.10
+MultiTool has the following features in v0.7.12
 
 O  Extract Media Information to .txt. Such as:
 - [ ]    Track ID
@@ -34,6 +38,7 @@ O  Extract Media Information to .txt. Such as:
 O  Convert Videos to .mkv using ffmpeg
 - [ ]    Choose compression rate (CRF) from 18-24
 - [ ]    Copy Audio Stream without changes
+- [ ]    Copy Subtitle without changes
 - [ ]    libx265 codec
 - [ ]    10bit
 - [ ]    AQ Mode 3 specialized to Dark Scenes
@@ -54,7 +59,10 @@ _________________________________________________________________
 **Setup** version can be extracted and used anywhere and is the same as the .rar version.
 
 The **Portable** Version deletes the Bin folder after use to keep the working folder clean.
-(start is slow because of extraction)
+(start is slow because of the extraction process)
+
+Standalone.rar is the updated MultiTool.exe without the Bin folder. It can be used to quickly update the MultiTool
+without the need to download the big Bin folder again. 
 _________________________________________________________________
 
 ### Containers currently supported:
@@ -88,3 +96,11 @@ _________________________________________________________________
 **mkvmerge:**
  
 (.avi .m2ts .mkv .mp4 .mov .mpeg .ogv .vob .webm .wmv)  
+_________________________________________________________________
+
+### Changelog:
+
+**0.7.12**
+-added "-scodec copy" to ffmpeg commands.
+-fixed a bug in ffmpeg normal option, which made option 7-9 not selectable.
+-changed title name.
