@@ -101,6 +101,14 @@ _________________________________________________________________
 ### Changelog:
 
 **0.7.12**
+
 -added "-scodec copy" to ffmpeg commands.
+
 -fixed a bug in ffmpeg normal option, which made option 7-9 not selectable.
+
 -changed title name.
+
+
+**0.7.10**
+
+-First Beta Release.
