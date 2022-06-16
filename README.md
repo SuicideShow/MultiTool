@@ -61,7 +61,7 @@ _________________________________________________________________
 The **Portable** Version deletes the Bin folder after use to keep the working folder clean.
 (start is slow because of the extraction process)
 
-Standalone.rar is the updated MultiTool.exe without the Bin folder. It can be used to quickly update the MultiTool
+**Standalone.rar** is the updated MultiTool.exe without the Bin folder. It can be used to quickly update the MultiTool
 without the need to download the big Bin folder again. 
 _________________________________________________________________
 
