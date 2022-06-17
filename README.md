@@ -2,7 +2,8 @@
 **Batch process Media-Files with ffmpeg/mkvmerge/MediaInfo.**
 
 
-![Screenshot](https://user-images.githubusercontent.com/107532220/173764160-fa9403d7-292a-4117-bf1c-615aac9b5434.png)
+![Screenshot](https://user-images.githubusercontent.com/107532220/174289562-497e83b4-2577-4acc-af0a-2d7dd0910d59.png)
+
 
 _________________________________________________________________
 
@@ -23,7 +24,7 @@ _________________________________________________________________
 
 ### Beta Release
 
-MultiTool has the following features in v0.7.12
+MultiTool has the following features in v0.8.13
 
 O  Extract Media Information to .txt. Such as:
 - [ ]    Track ID
@@ -33,7 +34,7 @@ O  Extract Media Information to .txt. Such as:
 - [ ]    Codecs
 - [ ]    Bitrate
 - [ ]    Frequency
-- [ ]     etc
+- [ ]    ...
 
 O  Convert Videos to .mkv using ffmpeg
 - [ ]    Choose compression rate (CRF) from 18-24
@@ -43,6 +44,12 @@ O  Convert Videos to .mkv using ffmpeg
 - [ ]    10bit
 - [ ]    AQ Mode 3 specialized to Dark Scenes
 - [ ]    Tune Option for Animation or Grain
+
+O  Convert Audio to .mp3 or .ogg using ffmpeg
+- [ ]    Choose Frequency between Variable, 41khz or 48khz 
+- [ ]    Choose Bitrate from Variable, 128kbit to 320kbit
+- [ ]    Stereo (2 Channel)
+- [ ]    Vorbis or MPEG Layer 3
 
 O  Play Media Files using ffplay
 
@@ -78,9 +85,12 @@ _________________________________________________________________
 (.aac .ac3 .acm .flac .m4a .mka .mp2 .mp3 .oga .ogg .opus .vorbis .wav .wma)
 
 
-**ffmpeg:**
- 
-(.avi .m2ts .mkv .mp4 .vob) 
+**ffmpeg video convert:**
+(.avi .m2ts .mkv .mp4 .vob)
+
+
+**ffmpeg audio convert:**
+(.aac .ac3 .acm .flac .m4a .mka .mp2 .mp3 .oga .ogg .opus .vorbis .wav .wma)
 
 
 **mkvextract:**
@@ -99,6 +109,16 @@ _________________________________________________________________
 _________________________________________________________________
 
 ### Changelog:
+
+
+**0.8.13**
+
+-added audio convert option
+
+-minor cosmetic fixes
+
+-new icon
+
 
 **0.7.12**
 
